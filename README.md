@@ -101,7 +101,7 @@ El equipo se ensambló desde un inicio, la colaboración y el entusiasmo fueron 
     <a href="https://www.linkedin.com/in/eduardo-gaston-cuevas-81517b1b2/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a> ⇢
     <a href="https://github.com/cuevasgaston" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>
 </p>    
-<h4>Facundo Gomes</h4>
+<h4>Facundo Gomez</h4>
 <p>
     <!-- <a href="https://www.linkedin.com/in/leandro-pappalardo/" target="_blank"><img src="https://res.cloudinary.com/pflet/image/upload/v1664759905/Let/GitHub/lea_dfvtvj.png" alt="Lea" height='80' /></a> ⇢ -->
     <a href="https://www.linkedin.com/in/fg-facugomez/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a> ⇢
