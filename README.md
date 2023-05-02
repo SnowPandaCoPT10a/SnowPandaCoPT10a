@@ -1,7 +1,9 @@
-<a href="https://www.youtube.com/watch?v=g5tkaj4H-Kg&ab_channel=SilSanMartin" target="_blank"><img src="https://res.cloudinary.com/de8yqg0tm/image/upload/v1683031586/6a61ce42-acba-47eb-8b1a-cbcdcecff36a_mzarfu.jpg" alt="git"/></a> 
-
 <h3 align="center">Bienvenidos a SnowPanda 👋  <h3>
 &nbsp;<hr/>
+
+
+<a href="https://www.youtube.com/watch?v=g5tkaj4H-Kg&ab_channel=SilSanMartin" target="_blank"><img src="https://res.cloudinary.com/de8yqg0tm/image/upload/v1683031586/6a61ce42-acba-47eb-8b1a-cbcdcecff36a_mzarfu.jpg" alt="git"/></a> 
+
 
 <h3 align="center"> El Proyecto 🚀</h3>
 <p>
