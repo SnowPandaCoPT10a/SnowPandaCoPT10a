@@ -62,14 +62,14 @@ Para conocerlo, hacé cick en el siguiente enlace:
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 &nbsp;<hr/>
 
-<h3 align="center">🖤 Sobre Nosotros</h3>
+<!-- <h3 align="center">🖤 Sobre Nosotros</h3>
 <p>
 Somos un grupo de personas que se encontraron cursando la carrera de Full Stack Developer en el Bootcamp de Henry. Habernos elegido como compañeros y compartir mil horas de producción con un objetivo común, dieron como resultado una linda amistad y una idea novedosa.
 </p>
 &nbsp;
 <p>
 El equipo se ensambló desde un inicio, la colaboración y el entusiasmo fueron pilares en el avance del proyecto. Estas cualidades sumadas a las grandes habilidades técnicas de cada integrante, fueron motivo no solo de un gran resultado sino también de las ganas de seguir creciendo juntos en nuevos desafíos.
-</p>
+</p> -->
 &nbsp;<hr/>
 
 <h3 align="center">⭐ Integrantes</h3>
